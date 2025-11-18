@@ -79,7 +79,7 @@ I am a Junior Software Developer focused on backend and full-stack development w
 <p>
   <a href="https://www.linkedin.com/in/mrunali-oza04">
     <img height="40" src="https://www.linkedin.com/in/mrunali-oza04" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
 
   <a href="https://www.naukri.com/mnjuser/homepage">
