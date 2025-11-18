@@ -2,7 +2,7 @@
 <!-- SECTION 1 — GOLD NAME BANNER (STATIC IMAGE)   -->
 <!-- --------------------------------------------- -->
 <p align="center">
-  <img src="./banner-static.svg" width="100%" />
+  <img src="./banner-animated.svg" width="100%" alt="Mrunali Oza banner" />
 </p>
 
 
