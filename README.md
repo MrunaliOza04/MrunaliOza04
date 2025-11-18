@@ -10,7 +10,7 @@
 <!-- SECTION 2 — FULL WIDTH ANIMATED GOLD PARTICLE NAME BANNER     -->
 <!-- ------------------------------------------------------------- -->
 <p align="center">
-  <img src="./banner-animated.svg" width="100%" />
+  <img src="./header-particles.svg" width="100%" alt="Mrunali Oza header" />
 </p>
 
 
