@@ -73,7 +73,7 @@
   </a>
 
   <a href="https://www.naukri.com/mnjuser/homepage">
-  <img height="40" src="https://pnghdpro.com/naukri-app-icon/
+  <img height="60" src="https://pnghdpro.com/naukri-app-icon/
 "/>
   </a>
 
