@@ -68,9 +68,10 @@
 <!-- ------------------------------------------------- -->
 ## 🤝 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/mrunali-oza04">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-  </a>
+ <a href="https://www.linkedin.com/in/mrunali-oza04">
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
+
 
  <a href="[https://leetcode.com/u/ZBTVBt9LyP/](https://leetcode.com/u/Oza_Mrunali/)">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
