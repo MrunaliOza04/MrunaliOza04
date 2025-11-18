@@ -22,15 +22,6 @@
 </p>
 
 
-<!-- ------------------------------------ -->
-<!-- SECTION 4 — ABOUT ME (SUMMARY TEXT)  -->
-<!-- ------------------------------------ -->
-## 👩‍💻 About Me  
-
-I am a Junior Software Developer focused on backend and full-stack development with Java and Spring Boot. I build and maintain backend systems and REST APIs, design databases, and create simple front-end interfaces when needed.
-
-
-
 <!-- ----------------------------------------- -->
 <!-- SECTION 5 — SKILLS (COLORFUL SMALL ICONS) -->
 <!-- ----------------------------------------- -->
@@ -83,7 +74,7 @@ I am a Junior Software Developer focused on backend and full-stack development w
   </a>
 
   <a href="https://www.naukri.com/mnjuser/homepage">
-    <img height="40" src="https://brandfetch.com/naukri.com?library=default&collection=logos&asset=id5Uu3XyB_&__cf_chl_tk=NzJbmDZL6k.2M8H1WaCwQz66MbKYifb7wgC2.mQTlpo-1763487924-1.0.1.1-NnCtsJnWmODGIlH.jvYY14hlPQH9nF8Mz2o6sxgEYCw"/>
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"/>
   </a>
 
 
