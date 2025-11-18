@@ -26,9 +26,9 @@
 <!-- SECTION 4 — ABOUT ME (SUMMARY TEXT)  -->
 <!-- ------------------------------------ -->
 ## 👩‍💻 About Me  
-Your summary text here  
-Your summary text here  
-Your summary text here  
+
+I am a Junior Software Developer focused on backend and full-stack development with Java and Spring Boot. I build and maintain backend systems and REST APIs, design databases, and create simple front-end interfaces when needed.
+
 
 
 <!-- ----------------------------------------- -->
