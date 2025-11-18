@@ -73,7 +73,7 @@
   </a>
 
  <a href="[https://leetcode.com/u/ZBTVBt9LyP/](https://leetcode.com/u/Oza_Mrunali/)">
-    <img height="40" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
 </a>
 
 
