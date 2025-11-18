@@ -52,7 +52,7 @@ I am a Junior Software Developer focused on backend and full-stack development w
 
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 
 <!-- YOUR BULLET POINTS -->
 - 💼 I’m actively seeking opportunities to grow as a full-stack or backend developer.  
@@ -65,7 +65,7 @@ I am a Junior Software Developer focused on backend and full-stack development w
 
 </td>
 
-<td width="40%">
+<td width="50%">
   <img src="./your-illustration.png" width="100%" />
 </td>
 </tr>
