@@ -69,12 +69,12 @@
 ## 🤝 Connect With Me  
 <p>
   <a href="https://www.linkedin.com/in/mrunali-oza04">
-    <img height="40" src="https://www.linkedin.com/in/mrunali-oza04" >
     <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
 
   <a href="https://www.naukri.com/mnjuser/homepage">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Naukri_Logo.svg/512px-Naukri_Logo.svg.png"/>  </a>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Naukri_Logo.svg/512px-Naukri_Logo.svg.png"/>  
+  </a>
 
 
 
