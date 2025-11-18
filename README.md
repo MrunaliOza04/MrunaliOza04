@@ -1,63 +1,205 @@
-<!-- Top animated banner -->
-<p align="center">
-  <img src="./banner-animated.svg" width="100%" alt="Mrunali Oza banner" />
-</p>
+<!-- =============================== -->
+<!-- SECTION 1 — GOLD NAME BANNER   -->
+<!-- =============================== -->
 
-<!-- Full-width falling particles + name + long summary -->
 <p align="center">
-  <img src="./header-particles.svg" width="100%" alt="Mrunali Oza header" />
+  <img src="./banner-static.svg" width="100%" />
 </p>
 
 <br/>
 
-<!-- Profile views badge (hidden URL shown just as shield) -->
+<!-- =============================== -->
+<!-- SECTION 2 — ANIMATED GOLD BANNER -->
+<!-- =============================== -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrunalioza&label=Profile%20Views&color=gold&style=flat" alt="Profile views" />
+  <img src="./banner-animated.svg" width="100%" />
 </p>
 
----
+<br/>
 
-## 🔗 Connect With Me
+
+<!-- =============================== -->
+<!-- SECTION 3 — PROFILE VIEWS BADGE -->
+<!-- =============================== -->
 
 <p align="center">
-  <!-- clickable LinkedIn logo -->
-  <a href="https://www.linkedin.com/in/mrunali-oza04" target="_blank" rel="noopener">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" alt="LinkedIn"/>
+  <img src="https://komarev.com/ghpvc/?username=Mrunalioza04&label=PROFILE+VIEWS&color=gold&style=flat-square" />
+</p>
+
+<br/>
+
+
+<!-- =============================== -->
+<!-- SECTION 4 — ABOUT ME -->
+<!-- =============================== -->
+
+## 👩‍💻 About Me  
+Font must be large and readable  
+(Add your final 100-word summary here)
+
+<br/>
+
+
+<!-- =============================== -->
+<!-- SECTION 5 — SKILLS (COLORFUL ICON STYLE) -->
+<!-- =============================== -->
+
+## 🛠 Skills  
+(Replace icons using screenshot #1 style)
+
+<p align="left">
+  <!-- Example icons -->
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</p>
+
+<br/>
+
+
+<!-- =============================== -->
+<!-- SECTION 6 — EXTRA INFO (LEFT TEXT + RIGHT IMAGE) -->
+<!-- =============================== -->
+
+## ⭐ Extra Info
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<!-- LEFT SIDE — BULLET POINTS -->
+
+### 📌 Professional Snapshot
+
+- 💼 I’m actively seeking opportunities to grow as a full-stack or backend developer.  
+- 📚 Currently improving my Spring Boot skills and learning DevOps essentials.  
+- 🌐 Explore my work → **https://github.com/Mrunalioza04**  
+- ❓ Ask me about Java, Spring Boot, MySQL, JDBC, Servlets, HTML, CSS  
+- 📩 Email — **mrunalioza4004@gmail.com**  
+- 🔗 Know more on LinkedIn  
+- 🤭 Fun Fact — I love experimenting with new tech and building real-world projects.  
+
+</td>
+
+<td width="40%" align="center">
+
+<!-- RIGHT SIDE — IMAGE -->
+
+<img src="./my-coding-illustration.png" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+<!-- =============================== -->
+<!-- SECTION 7 — CONNECT WITH ME -->
+<!-- =============================== -->
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mrunali-oza04">
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- clickable Naukri logo -->
-  <a href="https://www.naukri.com/mnjuser/profile" target="_blank" rel="noopener">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Naukri_Logo.png" width="42" alt="Naukri"/>
+
+  <a href="https://www.naukri.com/mnjuser/homepage">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Naukri_Logo.png"/>
   </a>
 </p>
 
----
+<br/>
 
-## 🧑‍💻 About Me (short)
-I am a Junior Software Developer focused on backend and full-stack development with Java and Spring Boot. I build and maintain backend systems and REST APIs, design databases, and create simple front-end interfaces when needed.
 
----
+<!-- =============================== -->
+<!-- SECTION 8 — LANGUAGES & TOOLS (GRID ICONS) -->
+<!-- =============================== -->
 
-## 🛠️ Tech Stack (high level)
-- Java, Spring Boot, JDBC  
-- MySQL  
-- HTML, CSS, Bootstrap  
-- Git, GitHub
+## ⚙️ Languages & Tools
 
----
-
-## 📌 Featured Projects
-- **Hotel Management System (Spring upgrade)** — upgraded an earlier Java project to Spring Boot for better modularity and RESTful APIs.  
-- **Tender Recommendation System** — a prototype that filters and recommends tender opportunities based on user input and simple scoring logic.  
-- **Banking Management System** — practice app for secure login, transactions, and balance management using Java + MySQL.
-
----
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrunalioza&show_icons=true&theme=tokyonight&hide_border=true" height="160px" alt="GitHub Stats"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
----
+<br/>
 
-<p align="center">✨ Thanks for visiting my profile!</p>
+
+<!-- =============================== -->
+<!-- SECTION 9 — PROJECTS SECTION (3 HORIZONTAL CARDS) -->
+<!-- =============================== -->
+
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+<a href="YOUR_PROJECT_LINK">
+  <img src="./project1-large.png" width="100%" />
+  <br/>
+  <b>🏨 Hotel Management System</b>
+</a>
+<p>Spring-upgraded full hotel admin & booking workflow.</p>
+<a href="YOUR_DISCUSSION_LINK">💬 Start Discussion</a>
+</td>
+
+<td width="33%" align="center">
+<a href="YOUR_PROJECT_LINK">
+  <img src="./project2-large.png" width="100%" />
+  <br/>
+  <b>📑 Tender Recommendation System</b>
+</a>
+<p>Predicts best tenders using business logic.</p>
+<a href="YOUR_DISCUSSION_LINK">💬 Start Discussion</a>
+</td>
+
+<td width="33%" align="center">
+<a href="YOUR_PROJECT_LINK">
+  <img src="./project3-large.png" width="100%" />
+  <br/>
+  <b>🏦 Banking Management System</b>
+</a>
+<p>Mini-banking app with login, deposit & withdrawal.</p>
+<a href="YOUR_DISCUSSION_LINK">💬 Start Discussion</a>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+
+<!-- =============================== -->
+<!-- SECTION 10 — GITHUB STATS -->
+<!-- =============================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mrunalioza04&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrunalioza04&theme=tokyonight&hide_border=true"/>
+</p>
+
+<br/>
+
+
+<!-- =============================== -->
+<!-- SECTION 11 — FOOTER MESSAGE -->
+<!-- =============================== -->
+
+<p align="center">
+  ✨ Thank you for visiting my profile! ✨  
+</p>
+
+<p align="right">
+  Made with ❤️ by <b>Mrunali Oza</b>
+</p>
