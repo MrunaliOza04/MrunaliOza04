@@ -72,8 +72,9 @@
     <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
 
-  <a href="https://www.naukri.com/mnjuser/homepage" target="_blank">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Naukri_Logo.svg" alt="Naukri.com Logo" />
+  <a href="https://www.naukri.com/mnjuser/homepage">
+  <img height="40" src="https://pnghdpro.com/naukri-app-icon/
+"/>
   </a>
 
 
