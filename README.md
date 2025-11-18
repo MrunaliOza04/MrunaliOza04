@@ -35,7 +35,7 @@ I am a Junior Software Developer focused on backend and full-stack development w
 <!-- SECTION 5 — SKILLS (COLORFUL SMALL ICONS) -->
 <!-- ----------------------------------------- -->
 ## 🛠️ Skills  
-<p>
+<p align="center">
   <!-- Example icons -->
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
