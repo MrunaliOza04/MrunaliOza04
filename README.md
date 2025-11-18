@@ -81,9 +81,9 @@ I am a Junior Software Developer focused on backend and full-stack development w
     <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
 
-<a href="https://www.naukri.com/mnjuser/homepage">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Naukri_Logo.svg" />
-</a>
+  <a href="https://www.naukri.com/mnjuser/homepage">
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png"/>
+  </a>
 
 
 
