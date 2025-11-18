@@ -48,8 +48,7 @@ I am a Junior Software Developer focused on backend and full-stack development w
 
 <!-- ----------------------------------------------------- -->
 <!-- SECTION 6 — EXTRA INFO (LEFT TEXT + RIGHT ILLUSTRATION) -->
-<!-- ----------------------------------------------------- -->
-## ✨ Extra Info  
+<!-- ----------------------------------------------------- -->  
 
 <table>
 <tr>
