@@ -72,10 +72,9 @@
     <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
 
-  <a href="https://www.naukri.com/mnjuser/homepage">
-  <img height="60" src="https://pnghdpro.com/naukri-app-icon/
-"/>
-  </a>
+ <a href="[https://leetcode.com/u/ZBTVBt9LyP/](https://leetcode.com/u/Oza_Mrunali/)">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
 
 
