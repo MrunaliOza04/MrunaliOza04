@@ -73,7 +73,7 @@
   </a>
 
   <a href="https://www.naukri.com/mnjuser/homepage">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Naukri_Logo.svg/512px-Naukri_Logo.svg.png"/>  
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Naukri_Logo.svg"/> 
   </a>
 
 
