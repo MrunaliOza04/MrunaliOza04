@@ -102,20 +102,13 @@
 
 ---
 
-## 🗺️ Treasure Hunt Puzzle
-Solve clues hidden across the profile! Each clue leads to the next step.
+## 🏝️ Night Treasure Island  
+A small interactive scene just for fun!
 
+<p align="center">
+  <img src="./treasure-island-night.svg" width="100%" alt="Night Treasure Island"/>
+</p>
 
-**Clue 1:** I store your thoughts but I'm not a diary. Look above the *Projects* section.
-
-
-*How to play (quick):*
-1. Read the clue.
-2. Find the section or file it hints at.
-3. Follow the next clue until you reach the final secret.
-
-
-*(If you want, I can make clues unlock automatically via GitHub Actions.)*
 ---
 
 ## 🏅 Badge Unlock Game
