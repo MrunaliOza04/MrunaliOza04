@@ -1,124 +1,198 @@
-# 👋 Hi, I'm Mrunali Oza
-**Java Developer | Spring | MySQL | JDBC | HTML/CSS | Servlets**
+<!-- --------------------------------------------- -->
+<!-- SECTION 1 — GOLD NAME BANNER (STATIC IMAGE)   -->
+<!-- --------------------------------------------- -->
+<p align="center">
+  <img src="./banner-animated.svg" width="100%" alt="Mrunali Oza banner" />
+</p>
+
+
+<!-- ------------------------------------------------------------- -->
+<!-- SECTION 2 — FULL WIDTH ANIMATED GOLD PARTICLE NAME BANNER     -->
+<!-- ------------------------------------------------------------- -->
+<p align="center">
+  <img src="./header-particles.svg" width="100%" alt="Mrunali Oza header" />
+</p>
+
+
+<!-- ----------------------------- -->
+<!-- SECTION 3 — PROFILE VIEWS     -->
+<!-- ----------------------------- -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mrunalioza04&label=Profile%20Views&color=orange&style=flat" />
+</p>
+
+
+<!-- ----------------------------------------- -->
+<!-- SECTION 5 — SKILLS (COLORFUL SMALL ICONS) -->
+<!-- ----------------------------------------- -->
+## 🛠️ Skills  
+<p align="center">
+  <!-- Example icons -->
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+</p>
+
+
+<!-- ----------------------------------------------------- -->
+<!-- SECTION 6 — EXTRA INFO (LEFT TEXT + RIGHT ILLUSTRATION) -->
+<!-- ----------------------------------------------------- -->  
+
+<table>
+<tr>
+<td width="50%">
+
+<!-- YOUR BULLET POINTS -->
+- 💼 I’m actively seeking opportunities to grow as a full-stack or backend developer.  
+- 📚 Currently improving my Spring Boot skills and learning DevOps essentials.  
+- 📂 Projects: **https://github.com/Mrunalioza04**  
+- 💬 Ask me about Java, Spring Boot, JDBC, Servlets, MySQL  
+- 📧 Email: **mrunalioza4004@gmail.com**  
+- 🔗 Know more: **LinkedIn**  
+- 🎉 Fun fact: I love experimenting with new tech and building useful apps.
+
+</td>
+
+<td width="50%">
+  <img src="./your-illustration.png" width="100%" />
+</td>
+</tr>
+</table>
+
+
+<!-- ------------------------------------------------- -->
+<!-- SECTION 7 — CONNECT WITH ME (LOGO BUTTONS STYLE) -->
+<!-- ------------------------------------------------- -->
+## 🤝 Connect With Me  
+<p>
+ <a href="https://www.linkedin.com/in/mrunali-oza04">
+  <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
+
+
+ <a href="[https://leetcode.com/u/ZBTVBt9LyP/](https://leetcode.com/u/Oza_Mrunali/)">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
+
+
+
+  <a href="mailto:mrunalioza4004@gmail.com">
+    <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+  </a>
+</p>
+
+
+<!-- -------------------------------------------------------- -->
+<!-- SECTION 8 — LANGUAGES & TOOLS (GRID LARGE ICONS STYLE)   -->
+<!-- -------------------------------------------------------- -->
+## 🧰 Languages & Tools
+<p align="center">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</p>
+
+<!-- ------------------ INSERTED INTERACTIVE SECTIONS BELOW LANGUAGES & TOOLS ------------------ -->
 
 ---
 
-## 📝 Summary
-Motivated Java developer with hands-on experience in building full‑stack projects such as Hotel Management System and Banking System using Java, JDBC, MySQL, HTML, CSS, and Servlets. Strong understanding of backend development, database connectivity, and clean code practices. Passionate about learning advanced frameworks and building real-world applications.
-
----
-
-## 🛠 Technical Skills
-
-<!-- ---------------------------------------------- -->
-<!-- INTERACTIVE SECTIONS INSERTED BELOW             -->
-<!-- ---------------------------------------------- -->
-
-## 🗺️ Interactive Treasure Hunt Puzzle
+## 🗺️ Treasure Hunt Puzzle
 Solve clues hidden across the profile! Each clue leads to the next step.
 
 **Clue 1:** I store your thoughts but I'm not a diary. Look above the *Projects* section.
 
-More clues unlock as you progress… 👀
+*How to play (quick):*
+1. Read the clue.  
+2. Find the section or file it hints at.  
+3. Follow the next clue until you reach the final secret.  
+
+*(If you want, I can make clues unlock automatically via GitHub Actions.)*
 
 ---
 
 ## 🏅 Badge Unlock Game
 Track your engagement and unlock badges!
-- ⭐ **Bronze Explorer:** 10 profile visits
+- ⭐ **Bronze Explorer:** 10 profile visits (tracked via visitor-counter)
 - 🥈 **Silver Contributor:** 1 PR in any repo
 - 🥇 **Gold Achiever:** 5 helpful issue comments
 - 💎 **Diamond Supporter:** Star 3 of my repositories
 
+*How badges are awarded (suggested setup):*  
+- Profile visits: ghpvc or a visitor-counter action + simple JS badge generator.  
+- PRs / Issues / Stars: GitHub Actions listening to repository events and updating a small JSON/badge file in the repo.
+
 ---
 
 ## 🎉 Random Fun Fact
-Every time you refresh, enjoy a new fun fact:
+Enjoy a new fun fact every time you refresh:
 
 ![Random Fun Fact](https://readme-facts.vercel.app/api?type=random)
 
 ---
-### **Languages:** Java, SQL, HTML, CSS  
-### **Frameworks & Technologies:** JDBC, Servlets, JSP, Bootstrap  
-### **Databases:** MySQL  
-### **Tools:** IntelliJ IDEA, Eclipse, VS Code, Git, GitHub, MySQL Workbench  
-### **Other:** OOP, DBMS, Operating Systems
+
+
+<!-- --------------------------------------------- -->
+<!-- SECTION 9 — PROJECTS (3 HORIZONTAL CARDS)     -->
+<!-- --------------------------------------------- -->
+## 🚀 Projects  
+<table>
+<tr>
+
+<td width="33%">
+<h3>🏨 Hotel Management System</h3>
+<p>Spring-based hotel booking & admin system.</p>
+<a href="https://github.com/Mrunalioza04">🔗 View Project</a>
+</td>
+
+<td width="33%">
+<h3>📊 Tender Recommendation System</h3>
+<p>Recommends tenders based on logic & data.</p>
+<a href="https://github.com/Mrunalioza04">🔗 View Project</a>
+</td>
+
+<td width="33%">
+<h3>🏦 Banking Management System</h3>
+<p>Account login, balance, deposit, withdraw.</p>
+<a href="https://github.com/Mrunalioza04">🔗 View Project</a>
+</td>
+
+</tr>
+</table>
+
+
+<!-- -------------------------------- -->
+<!-- SECTION 10 — GITHUB STATS        -->
+<!-- -------------------------------- -->
+## 📈 GitHub Stats  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mrunalioza04&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrunalioza04&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📂 Projects
-### **1. Hotel Management System | Java, JDBC, MySQL, HTML, CSS**
-- Built an end‑to‑end hotel management application supporting room booking, customer management, and payment workflow.
-- Implemented CRUD operations using JDBC and optimized MySQL queries.
-- Designed responsive frontend using HTML/CSS.
-
-### **2. Banking Management System | Java, JDBC, MySQL**
-- Developed a banking application supporting account creation, secure login, deposits, withdrawals, and balance enquiry in minimal code.
-- Ensured secure database operations using JDBC.
-
----
-
-## 🎓 Education
-**B.Sc. in Information Technology**  
-Pune University
-
----
-
-## 📜 Certifications
-- Java Programming
-- Web Development Basics
-- SQL & Databases
-
----
-
-## 📌 Achievements / Leadership
-- Led project development for Hotel Management System as part of academic work.
-- Actively participated in coding activities and tech communities.
-
----
-
-## 📫 Connect With Me
-<a href="https://www.linkedin.com/in/mrunali-oza04" target="_blank">LinkedIn</a> |
-<a href="https://www.naukri.com" target="_blank">Naukri</a> |
-Email: *your-email-here*
-
----
-
-## 📊 GitHub Stats
-![Mrunali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME)
-
----
+<!-- ------------------ INSERTED SNAKE BELOW STATS ------------------ -->
 
 ## 🐍 GitHub Contribution Snake
-![GitHub Snake](https://raw.githubusercontent.com/Mrunalioza04/Mrunalioza04/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mrunalioza04/Mrunalioza04/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</div>
 
 ---
 
-> ⭐ *Feel free to explore my repositories and connect with me for collaboration!*
+<!-- -------------------------------- -->
+<!-- SECTION 11 — FOOTER MESSAGE      -->
+<!-- -------------------------------- -->
+<p align="center">
+  ✨ Thank you for visiting my profile! ✨  
+</p>
 
----
-
-## 🗺️ Interactive Treasure Hunt Puzzle
-Solve clues hidden across the profile! Each clue leads to the next step.
-
-**Clue 1:** I store your thoughts but I'm not a diary. Look above the *Projects* section.
-
-More clues unlock as you progress… 👀
-
----
-
-## 🏅 Badge Unlock Game
-Track your engagement and unlock badges!
-- ⭐ **Bronze Explorer:** 10 profile visits
-- 🥈 **Silver Contributor:** 1 PR in any repo
-- 🥇 **Gold Achiever:** 5 helpful issue comments
-- 💎 **Diamond Supporter:** Star 3 of my repositories
-
----
-
-## 🎉 Random Fun Fact
-Every time you refresh, enjoy a new fun fact:
-
-![Random Fun Fact](https://readme-facts.vercel.app/api?type=random)
-
+<p align="right">
+  Made with ❤️ by <strong>Mrunali Oza</strong>
+</p>
