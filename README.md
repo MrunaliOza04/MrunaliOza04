@@ -105,15 +105,17 @@
 ## 🗺️ Treasure Hunt Puzzle
 Solve clues hidden across the profile! Each clue leads to the next step.
 
+
 **Clue 1:** I store your thoughts but I'm not a diary. Look above the *Projects* section.
 
+
 *How to play (quick):*
-1. Read the clue.  
-2. Find the section or file it hints at.  
-3. Follow the next clue until you reach the final secret.  
+1. Read the clue.
+2. Find the section or file it hints at.
+3. Follow the next clue until you reach the final secret.
+
 
 *(If you want, I can make clues unlock automatically via GitHub Actions.)*
-
 ---
 
 ## 🏅 Badge Unlock Game
