@@ -105,8 +105,8 @@
 ## 🏝️ Night Treasure Island  
 A small interactive scene just for fun!
 
-<p align="center">
-  <img src="./treasure-island-night.svg" width="400px">
+<p align="left">
+  <img src="./treasure-island-night.svg" width="350px">
 </p>
 
 
