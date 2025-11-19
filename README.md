@@ -106,7 +106,7 @@
 A small interactive scene just for fun!
 
 <p align="center">
-  <img src="./treasure-island-night.svg" width="100%" alt="Night Treasure Island"/>
+<img src="./treasure-island-night.svg" width="450px" />
 </p>
 
 ---
