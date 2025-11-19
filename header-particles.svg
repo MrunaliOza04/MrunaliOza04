@@ -59,8 +59,7 @@
 
   <!-- CENTER TEXT (on top of particles) -->
   <g text-anchor="middle" transform="translate(640,100)">
-    <!-- glow -->
-    <text x="0" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" fill="#C6A15A" opacity="0.35" filter="url(#softGlow)" style="letter-spacing:1.5px">Hi 👋, I'm Mrunali Oza</text>
+    
     <!-- main -->
     <text x="0" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" fill="#C6A15A" style="letter-spacing:1.5px">Hi 👋, I'm Mrunali Oza</text>
 
