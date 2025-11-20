@@ -106,8 +106,11 @@
 A small interactive scene just for fun!
 
 <p align="left">
-  <img src="./treasure-island-night.svg" width="350px">
+  <a href="https://mrunalioza04.github.io/treasure-game/">
+    <img src="./treasure-island-night.svg" width="350px">
+  </a>
 </p>
+
 
 
 ---
