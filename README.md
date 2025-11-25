@@ -66,22 +66,41 @@
 <!-- ------------------------------------------------- -->
 <!-- SECTION 7 — CONNECT WITH ME (LOGO BUTTONS STYLE) -->
 <!-- ------------------------------------------------- -->
+<!-- ------------------------------------------------- -->
+<!-- SECTION 7 — CONNECT WITH ME (BADGES STYLE CLEAN) -->
+<!-- ------------------------------------------------- -->
 ## 🤝 Connect With Me  
-<p>
- <a href="https://www.linkedin.com/in/mrunali-oza04">
-  <img height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+
+<p align="left">
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/mrunali-oza04">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 
-
- <a href="[https://leetcode.com/u/ZBTVBt9LyP/](https://leetcode.com/u/Oza_Mrunali/)">
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+<!-- Naukri -->
+<a href="YOUR_NAUKRI_LINK_HERE">
+  <img src="https://img.shields.io/badge/Naukri-0A66C2?style=for-the-badge" />
 </a>
 
+<!-- LeetCode -->
+<a href="https://leetcode.com/u/Oza_Mrunali/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow&style=for-the-badge" />
+</a>
 
+<!-- Email -->
+<a href="mailto:mrunalioza4004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
 
-  <a href="mailto:mrunalioza4004@gmail.com">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
-  </a>
+<br>
+
+<!-- Followers Badge -->
+<img src="https://img.shields.io/github/followers/MrunaliOza04?style=social" />
+
+<!-- Following Badge -->
+<img src="https://img.shields.io/github/following/MrunaliOza04?style=social" />
+
 </p>
 
 
