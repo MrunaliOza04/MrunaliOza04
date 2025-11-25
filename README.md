@@ -64,10 +64,8 @@
 
 
 <!-- ------------------------------------------------- -->
-<!-- SECTION 7 — CONNECT WITH ME (LOGO BUTTONS STYLE) -->
-<!-- ------------------------------------------------- -->
-<!-- ------------------------------------------------- -->
 <!-- SECTION 7 — CONNECT WITH ME (BADGES STYLE CLEAN) -->
+<!-- ------------------------------------------------- -->
 <!-- ------------------------------------------------- -->
 ## 🤝 Connect With Me  
 
@@ -90,18 +88,7 @@
 
 <!-- Email -->
 <a href="mailto:mrunalioza4004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white&style=for-the-badge" />
-</a>
-
-<br>
-
-<!-- Followers Badge -->
-<img src="https://img.shields.io/github/followers/MrunaliOza04?style=social" />
-
-<!-- Following Badge -->
-<img src="https://img.shields.io/github/following/MrunaliOza04?style=social" />
-
-</p>
+  <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white&style=f
 
 
 <!-- -------------------------------------------------------- -->
