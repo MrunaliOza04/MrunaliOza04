@@ -68,7 +68,6 @@
 <!-- ------------------------------------------------- -->
 <!-- ------------------------------------------------- -->
 ## 🤝 Connect With Me  
-
 <p align="left">
 
 <!-- LinkedIn -->
@@ -88,7 +87,11 @@
 
 <!-- Email -->
 <a href="mailto:mrunalioza4004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white&style=f
+  <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
+
+</p>
+
 
 
 <!-- -------------------------------------------------------- -->
