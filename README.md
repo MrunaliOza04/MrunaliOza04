@@ -110,25 +110,34 @@
 <!-- ------------------ INSERTED INTERACTIVE SECTIONS BELOW LANGUAGES & TOOLS ------------------ -->
 
 ---
+## 🎮 Tic-Tac-Toe
+
 <p align="center">
-  <table style="border-spacing:18px;">
-    <tr>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
-    </tr>
-  </table>
+<svg width="260" height="260" viewBox="0 0 260 260">
+  <!-- Background -->
+  <rect width="260" height="260" fill="none" />
+
+  <!-- Grid lines -->
+  <line x1="86" y1="10" x2="86" y2="250" stroke="#555" stroke-width="4"/>
+  <line x1="173" y1="10" x2="173" y2="250" stroke="#555" stroke-width="4"/>
+  <line x1="10" y1="86" x2="250" y2="86" stroke="#555" stroke-width="4"/>
+  <line x1="10" y1="173" x2="250" y2="173" stroke="#555" stroke-width="4"/>
+
+  <!-- 9 clickable squares -->
+  <a href="#"><rect x="10"  y="10"  width="76" height="76" fill="#292929" rx="12"/></a>
+  <a href="#"><rect x="96"  y="10"  width="76" height="76" fill="#292929" rx="12"/></a>
+  <a href="#"><rect x="182" y="10"  width="76" height="76" fill="#292929" rx="12"/></a>
+
+  <a href="#"><rect x="10"  y="96"  width="76" height="76" fill="#292929" rx="12"/></a>
+  <a href="#"><rect x="96"  y="96"  width="76" height="76" fill="#292929" rx="12"/></a>
+  <a href="#"><rect x="182" y="96"  width="76" height="76" fill="#292929" rx="12"/></a>
+
+  <a href="#"><rect x="10"  y="182" width="76" height="76" fill="#292929" rx="12"/></a>
+  <a href="#"><rect x="96"  y="182" width="76" height="76" fill="#292929" rx="12"/></a>
+  <a href="#"><rect x="182" y="182" width="76" height="76" fill="#292929" rx="12"/></a>
+</svg>
 </p>
+
 
 
 ---
