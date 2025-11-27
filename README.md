@@ -111,32 +111,23 @@
 
 ---
 <p align="center">
-  <div style="
-    display:inline-block;
-    padding:20px;
-    backdrop-filter: blur(12px);
-    background: rgba(255,255,255,0.08);
-    border-radius: 20px;
-    border:1px solid rgba(255,255,255,0.2);
-  ">
-    <table style="border-spacing:15px;">
-      <tr>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-      </tr>
-      <tr>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-      </tr>
-      <tr>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
-      </tr>
-    </table>
-  </div>
+  <table style="border-spacing:18px;">
+    <tr>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+      <td><a href="#"><img src="https://img.icons8.com/?size=100&id=59833&format=png&color=white" width="75" style="border-radius:18px;"/></a></td>
+    </tr>
+  </table>
 </p>
 
 
