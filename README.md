@@ -110,7 +110,10 @@
 <!-- ------------------ INSERTED INTERACTIVE SECTIONS BELOW LANGUAGES & TOOLS ------------------ -->
 
 ---
-<p align="center">
+## 🎮 Tic-Tac-Toe
+
+<div align="center">
+
 <svg width="300" height="300" viewBox="0 0 300 300">
 
   <defs>
@@ -148,7 +151,9 @@
   <rect x="200" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
 
 </svg>
-</p>
+
+</div>
+
 
 ---
 
