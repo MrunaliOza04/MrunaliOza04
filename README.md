@@ -113,7 +113,6 @@
 <p align="center">
 <svg width="300" height="300" viewBox="0 0 300 300">
 
-  <!-- FUNCTION to draw glowing squares -->
   <defs>
     <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#b77bff"/>
@@ -129,67 +128,27 @@
     </filter>
   </defs>
 
-  <!-- GRID LINES -->
-  <line x1="100" y1="10" x2="100" y2="290" stroke="#555" stroke-width="4"/>
-  <line x1="200" y1="10" x2="200" y2="290" stroke="#555" stroke-width="4"/>
-  <line x1="10"  y1="100" x2="290" y2="100" stroke="#555" stroke-width="4"/>
-  <line x1="10"  y1="200" x2="290" y2="200" stroke="#555" stroke-width="4"/>
+  <!-- Grid Lines -->
+  <line x1="100" y1="10" x2="100" y2="290" stroke="#444" stroke-width="4"/>
+  <line x1="200" y1="10" x2="200" y2="290" stroke="#444" stroke-width="4"/>
+  <line x1="10"  y1="100" x2="290" y2="100" stroke="#444" stroke-width="4"/>
+  <line x1="10"  y1="200" x2="290" y2="200" stroke="#444" stroke-width="4"/>
 
-  <!-- 9 Squares -->
-  <!-- Each clickable spot has: gradient fill + neon glow -->
-  <!-- You can add your links later inside the <a> tags -->
+  <!-- 9 glowing gradient squares -->
+  <rect x="20" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+  <rect x="110" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+  <rect x="200" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
 
-  <!-- ROW 1 -->
-  <a href="#">
-    <rect x="20" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="55" y="75" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
-  </a>
+  <rect x="20" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+  <rect x="110" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+  <rect x="200" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
 
-  <a href="#">
-    <rect x="110" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="150" y="75" font-size="50" font-family="Arial" fill="white" text-anchor="middle">O</text>
-  </a>
-
-  <a href="#">
-    <rect x="200" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="240" y="75" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
-  </a>
-
-  <!-- ROW 2 -->
-  <a href="#">
-    <rect x="20" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="55" y="165" font-size="50" font-family="Arial" fill="white" text-anchor="middle">O</text>
-  </a>
-
-  <a href="#">
-    <rect x="110" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="150" y="165" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
-  </a>
-
-  <a href="#">
-    <rect x="200" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="240" y="165" font-size="50" font-family="Arial" fill="white" text-anchor="middle">O</text>
-  </a>
-
-  <!-- ROW 3 -->
-  <a href="#">
-    <rect x="20" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="55" y="255" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
-  </a>
-
-  <a href="#">
-    <rect x="110" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="150" y="255" font-size="50" font-family="Arial" fill="white" text-anchor="middle">O</text>
-  </a>
-
-  <a href="#">
-    <rect x="200" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-    <text x="240" y="255" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
-  </a>
+  <rect x="20" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+  <rect x="110" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+  <rect x="200" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
 
 </svg>
 </p>
-
 
 ---
 
