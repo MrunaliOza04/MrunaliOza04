@@ -110,31 +110,83 @@
 <!-- ------------------ INSERTED INTERACTIVE SECTIONS BELOW LANGUAGES & TOOLS ------------------ -->
 
 ---
-## 🎮 Tic-Tac-Toe
-
 <p align="center">
-<svg width="260" height="260" viewBox="0 0 260 260">
-  <!-- Background -->
-  <rect width="260" height="260" fill="none" />
+<svg width="300" height="300" viewBox="0 0 300 300">
 
-  <!-- Grid lines -->
-  <line x1="86" y1="10" x2="86" y2="250" stroke="#555" stroke-width="4"/>
-  <line x1="173" y1="10" x2="173" y2="250" stroke="#555" stroke-width="4"/>
-  <line x1="10" y1="86" x2="250" y2="86" stroke="#555" stroke-width="4"/>
-  <line x1="10" y1="173" x2="250" y2="173" stroke="#555" stroke-width="4"/>
+  <!-- FUNCTION to draw glowing squares -->
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#b77bff"/>
+      <stop offset="100%" stop-color="#6a4cff"/>
+    </linearGradient>
 
-  <!-- 9 clickable squares -->
-  <a href="#"><rect x="10"  y="10"  width="76" height="76" fill="#292929" rx="12"/></a>
-  <a href="#"><rect x="96"  y="10"  width="76" height="76" fill="#292929" rx="12"/></a>
-  <a href="#"><rect x="182" y="10"  width="76" height="76" fill="#292929" rx="12"/></a>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-  <a href="#"><rect x="10"  y="96"  width="76" height="76" fill="#292929" rx="12"/></a>
-  <a href="#"><rect x="96"  y="96"  width="76" height="76" fill="#292929" rx="12"/></a>
-  <a href="#"><rect x="182" y="96"  width="76" height="76" fill="#292929" rx="12"/></a>
+  <!-- GRID LINES -->
+  <line x1="100" y1="10" x2="100" y2="290" stroke="#555" stroke-width="4"/>
+  <line x1="200" y1="10" x2="200" y2="290" stroke="#555" stroke-width="4"/>
+  <line x1="10"  y1="100" x2="290" y2="100" stroke="#555" stroke-width="4"/>
+  <line x1="10"  y1="200" x2="290" y2="200" stroke="#555" stroke-width="4"/>
 
-  <a href="#"><rect x="10"  y="182" width="76" height="76" fill="#292929" rx="12"/></a>
-  <a href="#"><rect x="96"  y="182" width="76" height="76" fill="#292929" rx="12"/></a>
-  <a href="#"><rect x="182" y="182" width="76" height="76" fill="#292929" rx="12"/></a>
+  <!-- 9 Squares -->
+  <!-- Each clickable spot has: gradient fill + neon glow -->
+  <!-- You can add your links later inside the <a> tags -->
+
+  <!-- ROW 1 -->
+  <a href="#">
+    <rect x="20" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="55" y="75" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
+  </a>
+
+  <a href="#">
+    <rect x="110" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="150" y="75" font-size="50" font-family="Arial" fill="white" text-anchor="middle">O</text>
+  </a>
+
+  <a href="#">
+    <rect x="200" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="240" y="75" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
+  </a>
+
+  <!-- ROW 2 -->
+  <a href="#">
+    <rect x="20" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="55" y="165" font-size="50" font-family="Arial" fill="white" text-anchor="middle">O</text>
+  </a>
+
+  <a href="#">
+    <rect x="110" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="150" y="165" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
+  </a>
+
+  <a href="#">
+    <rect x="200" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="240" y="165" font-size="50" font-family="Arial" fill="white" text-anchor="middle">O</text>
+  </a>
+
+  <!-- ROW 3 -->
+  <a href="#">
+    <rect x="20" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="55" y="255" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
+  </a>
+
+  <a href="#">
+    <rect x="110" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="150" y="255" font-size="50" font-family="Arial" fill="white" text-anchor="middle">O</text>
+  </a>
+
+  <a href="#">
+    <rect x="200" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
+    <text x="240" y="255" font-size="50" font-family="Arial" fill="white" text-anchor="middle">X</text>
+  </a>
+
 </svg>
 </p>
 
