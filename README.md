@@ -56,7 +56,7 @@
 
 </td>
 
-<td width="50%">
+\<td width="50%">
   <img src="./your-illustration.png" width="100%" />
 </td>
 </tr>
