@@ -110,16 +110,35 @@
 <!-- ------------------ INSERTED INTERACTIVE SECTIONS BELOW LANGUAGES & TOOLS ------------------ -->
 
 ---
-
 <p align="center">
+  <div style="
+    display:inline-block;
+    padding:20px;
+    backdrop-filter: blur(12px);
+    background: rgba(255,255,255,0.08);
+    border-radius: 20px;
+    border:1px solid rgba(255,255,255,0.2);
+  ">
+    <table style="border-spacing:15px;">
+      <tr>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+      </tr>
+      <tr>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+      </tr>
+      <tr>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+        <td><a href="#"><img src="https://img.icons8.com/?size=100&id=12580&format=png" width="60"/></a></td>
+      </tr>
+    </table>
+  </div>
+</p>
 
-<a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,1">🟦</a>
-<a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,2">🟦</a>
-<a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,3">🟦</a>
-<br/>
-<a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,1">🟦</a>
-<a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,2">🟦</a>
-<a href="https://github.com/Mrunalioza04/Mrunalioz
 
 ---
 
