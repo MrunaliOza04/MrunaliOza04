@@ -208,9 +208,10 @@ Enjoy a new fun fact every time you refresh:
 
 <!-- ------------------ INSERTED SNAKE BELOW STATS ------------------ -->
 
-### 🌱 My GitHub Contribution Graph (3D Green Animation)
+### 🌙 My 3D GitHub Contribution Graph (Dark Mode)
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" />
 </p>
 
 
