@@ -167,16 +167,9 @@ Enjoy a new fun fact every time you refresh:
 <!-- ----------------------------- -->
 <!-- SECTION a — Achievments section     -->
 <!-- ----------------------------- -->
-## 🏆 Achievements & Highlights
-
+## 🏆 GitHub Trophies
 <p align="center">
-
-  <img src="https://img.shields.io/badge/DSA-100%2B_Problems_Solved-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Java-Certified_Developer-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Projects-15%2B_Completed-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub-Interactive_Profile-black?style=for-the-badge">
-
+  <img src="https://github-profile-trophy.vercel.app/?username=MrunaliOza04&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 <!-- --------------------------------------------- -->
