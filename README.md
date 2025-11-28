@@ -167,9 +167,13 @@ Enjoy a new fun fact every time you refresh:
 <!-- ----------------------------- -->
 <!-- SECTION a — Achievments section     -->
 <!-- ----------------------------- -->
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrunaliOza04&theme=onestar&no-frame=true&row=1&column=6" />
+## 🏆 Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" />
 </p>
 
 <!-- --------------------------------------------- -->
