@@ -170,12 +170,10 @@ Enjoy a new fun fact every time you refresh:
 ## 🏆 Achievements
 
 <p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" />
 </p>
 
+---
 <!-- --------------------------------------------- -->
 <!-- SECTION 9 — PROJECTS (3 HORIZONTAL CARDS)     -->
 <!-- --------------------------------------------- -->
