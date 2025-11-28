@@ -210,7 +210,9 @@ Enjoy a new fun fact every time you refresh:
 
 ### 🌟 My GitHub 3D Contribution Graph (Green Glow)
 
-![3D Contribution Landscape](.github/profile-3d-contrib/profile-green-animate.svg)
+<p align="center">
+  <img src=".github/profile-3d-contrib/profile-green-animate.svg" width="800" alt="3D Contribution Graph">
+</p>
 
 
 ---
