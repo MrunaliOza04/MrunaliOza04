@@ -164,7 +164,20 @@ Enjoy a new fun fact every time you refresh:
 ![Random Fun Fact](https://readme-facts.vercel.app/api?type=random)
 
 ---
+<!-- ----------------------------- -->
+<!-- SECTION a — Achievments section     -->
+<!-- ----------------------------- -->
+## 🏆 Achievements & Highlights
 
+<p align="center">
+
+  <img src="https://img.shields.io/badge/DSA-100%2B_Problems_Solved-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java-Certified_Developer-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Projects-15%2B_Completed-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-Interactive_Profile-black?style=for-the-badge">
+
+</p>
 
 <!-- --------------------------------------------- -->
 <!-- SECTION 9 — PROJECTS (3 HORIZONTAL CARDS)     -->
