@@ -167,11 +167,10 @@ Enjoy a new fun fact every time you refresh:
 <!-- ----------------------------- -->
 <!-- SECTION a — Achievments section     -->
 <!-- ----------------------------- -->
-## 🏆 Achievements
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" />
-</p>
+## 🏆 GitHub Achievements
+<!-- ACHIEVEMENTS-START -->
+(automatically updated)
+<!-- ACHIEVEMENTS-END -->
 
 ---
 <!-- --------------------------------------------- -->
