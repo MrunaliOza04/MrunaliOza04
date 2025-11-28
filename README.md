@@ -112,47 +112,12 @@
 ---
 ## 🎮 Tic-Tac-Toe
 
-<div align="center">
+<p align="center" style="font-size:42px; line-height:60px;">
+  <a href="#">🌸</a> <a href="#">💗</a> <a href="#">🫧</a><br>
+  <a href="#">🍬</a> <a href="#">🎀</a> <a href="#">💞</a><br>
+  <a href="#">✨</a> <a href="#">🌷</a> <a href="#">🧁</a>
+</p>
 
-<svg width="300" height="300" viewBox="0 0 300 300">
-
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#b77bff"/>
-      <stop offset="100%" stop-color="#6a4cff"/>
-    </linearGradient>
-
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Grid Lines -->
-  <line x1="100" y1="10" x2="100" y2="290" stroke="#444" stroke-width="4"/>
-  <line x1="200" y1="10" x2="200" y2="290" stroke="#444" stroke-width="4"/>
-  <line x1="10"  y1="100" x2="290" y2="100" stroke="#444" stroke-width="4"/>
-  <line x1="10"  y1="200" x2="290" y2="200" stroke="#444" stroke-width="4"/>
-
-  <!-- 9 glowing gradient squares -->
-  <rect x="20" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-  <rect x="110" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-  <rect x="200" y="20" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-
-  <rect x="20" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-  <rect x="110" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-  <rect x="200" y="110" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-
-  <rect x="20" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-  <rect x="110" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-  <rect x="200" y="200" width="80" height="80" rx="15" fill="url(#grad)" filter="url(#glow)"/>
-
-</svg>
-
-</div>
 
 
 ---
