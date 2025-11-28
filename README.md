@@ -112,10 +112,24 @@
 ---
 ## 🎮 Tic-Tac-Toe
 
-<p align="center" style="font-size:42px; line-height:60px;">
-  <a href="#">🌸</a> <a href="#">💗</a> <a href="#">🫧</a><br>
-  <a href="#">🍬</a> <a href="#">🎀</a> <a href="#">💞</a><br>
-  <a href="#">✨</a> <a href="#">🌷</a> <a href="#">🧁</a>
+### Current Board
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mrunalioza04/Mrunalioza04/main/.github/tictactoe/board.png" width="300" alt="tic-tac-toe board"/>
+</p>
+
+### Play a Move  
+<p align="center" style="font-size:28px;">
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,1">⬜</a>
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,2">⬜</a>
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,3">⬜</a><br>
+  
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,1">⬜</a>
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,2">⬜</a>
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,3">⬜</a><br>
+  
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,1">⬜</a>
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,2">⬜</a>
+  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,3">⬜</a>
 </p>
 
 
