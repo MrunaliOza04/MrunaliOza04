@@ -1,0 +1,38 @@
+name: Update GitHub Achievements
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"   # updates every 12 hours
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Achievements
+        id: achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: X
+          plugin_achievements_secrets: no
+          plugin_achievements_display: compact
+
+      - name: Insert Achievements into README
+        run: |
+          sed -i '/<!-- ACHIEVEMENTS-START -->/,/<!-- ACHIEVEMENTS-END -->/c\<!-- ACHIEVEMENTS-START -->\n![](achievements.svg)\n<!-- ACHIEVEMENTS-END -->' README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update achievements" || echo "No changes"
+          git push
