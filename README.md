@@ -208,10 +208,11 @@ Enjoy a new fun fact every time you refresh:
 
 <!-- ------------------ INSERTED SNAKE BELOW STATS ------------------ -->
 
-## 🐍 GitHub Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mrunalioza04/Mrunalioza04/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
+### 🌱 My GitHub Contribution Graph (3D Green Animation)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
+
 
 ---
 
