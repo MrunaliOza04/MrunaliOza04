@@ -117,20 +117,29 @@
   <img src="https://raw.githubusercontent.com/Mrunalioza04/Mrunalioza04/main/.github/tictactoe/board.png" width="300" alt="tic-tac-toe board"/>
 </p>
 
-### Play a Move  
-<p align="center" style="font-size:28px;">
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,1">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,2">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,3">⬜</a><br>
-  
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,1">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,2">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,3">⬜</a><br>
-  
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,1">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,2">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,3">⬜</a>
-</p>
+### 🎮 Play a Move
+
+Choose your next move by opening a new issue with:
+
+```
+Move row,column
+```
+
+For example:
+
+- `Move 1,1`
+- `Move 2,3`
+- `Move 3,2`
+
+---
+
+### ⭐ Quick Move Buttons (Click to auto-fill)
+
+| Row ↓ / Col → | 1 | 2 | 3 |
+|--------------|---|---|---|
+| **1** | [Move 1,1](../../issues/new?title=Move%201,1) | [Move 1,2](../../issues/new?title=Move%201,2) | [Move 1,3](../../issues/new?title=Move%201,3) |
+| **2** | [Move 2,1](../../issues/new?title=Move%202,1) | [Move 2,2](../../issues/new?title=Move%202,2) | [Move 2,3](../../issues/new?title=Move%202,3) |
+| **3** | [Move 3,1](../../issues/new?title=Move%203,1) | [Move 3,2](../../issues/new?title=Move%203,2) | [Move 3,3](../../issues/new?title=Move%203,3) |
 
 
 
