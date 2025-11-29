@@ -17,12 +17,16 @@ jobs:
         id: achievements
         uses: lowlighter/metrics@v3.33
         with:
-          token: ${{ secrets.PAT_TOKEN }}
-          user: MrunaliOza04
-          filename: achievements.svg
-          base: achievements
-          template: classic
-          config_timezone: Asia/Kolkata
+         token: ${{ secrets.PAT_TOKEN }}
+         user: MrunaliOza04
+         filename: achievements.svg
+
+         base: ""
+         template: classic
+         config_timezone: Asia/Kolkata
+
+         plugin_achievements: yes
+         plugin_achievements_display: compact
 
 
 
