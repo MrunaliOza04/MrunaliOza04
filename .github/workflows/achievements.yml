@@ -17,11 +17,14 @@ jobs:
         id: achievements
         uses: lowlighter/metrics@v3.33
         with:
-          filename: achievements.svg
           token: ${{ secrets.PAT_TOKEN }}
-          base: ""
+          user: MrunaliOza04
+          filename: achievements.svg
+          base: achievements
           template: classic
           config_timezone: Asia/Kolkata
+
+
 
       - name: Insert Achievements into README
         run: |
