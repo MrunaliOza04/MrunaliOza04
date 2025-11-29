@@ -173,6 +173,7 @@ Enjoy a new fun fact every time you refresh:
 <!--ACHIEVEMENTS-->
 ![](./achievements.svg)
 
+
 ---
 <!-- --------------------------------------------- -->
 <!-- SECTION 9 — PROJECTS (3 HORIZONTAL CARDS)     -->
