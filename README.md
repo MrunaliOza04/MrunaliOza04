@@ -168,9 +168,11 @@ Enjoy a new fun fact every time you refresh:
 <!-- SECTION a — Achievments section     -->
 <!-- ----------------------------- -->
 ## 🏆 GitHub Achievements
-<!-- ACHIEVEMENTS-START -->
 (automatically updated)
-<!-- ACHIEVEMENTS-END -->
+
+<!--ACHIEVEMENTS-->
+![](./achievements.svg)
+
 
 ---
 <!-- --------------------------------------------- -->
