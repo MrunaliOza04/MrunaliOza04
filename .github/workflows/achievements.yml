@@ -17,18 +17,18 @@ jobs:
         id: achievements
         uses: lowlighter/metrics@latest
         with:
-         token: ${{ secrets.PAT_TOKEN }}
-         user: MrunaliOza04
-         filename: achievements.svg
+          token: ${{ secrets.PAT_TOKEN }}
+          user: MrunaliOza04
+          filename: achievements.svg
 
-         base: ""
-         template: classic
-         config_timezone: Asia/Kolkata
+          use_precompiled_docker_image: yes   # IMPORTANT FIX
 
-         plugin_achievements: yes
-         plugin_achievements_display: compact
+          base: ""
+          template: classic
+          config_timezone: Asia/Kolkata
 
-
+          plugin_achievements: yes
+          plugin_achievements_display: compact
 
       - name: Insert Achievements into README
         run: |
@@ -42,4 +42,3 @@ jobs:
           git add .
           git commit -m "Update Achievements" || echo "No changes to commit"
           git push
-
