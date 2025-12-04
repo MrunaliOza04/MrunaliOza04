@@ -43,12 +43,13 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
-<!-- YOUR BULLET POINTS -->
+<!-- LEFT SIDE TEXT -->
 - 💼 I’m actively seeking opportunities to grow as a full-stack or backend developer.  
 - 📚 Currently improving my Spring Boot skills and learning DevOps essentials.  
-- 📂 Projects: **https://github.com/Mrunalioza04**  
+- 📂 Projects: **https://github.com/MrunaliOza04**  
 - 💬 Ask me about Java, Spring Boot, JDBC, Servlets, MySQL  
 - 📧 Email: **mrunalioza4004@gmail.com**  
 - 🔗 Know more: **LinkedIn**  
@@ -56,9 +57,11 @@
 
 </td>
 
-\<td width="50%">
-  <img src="./your-illustration.png" width="100%" />
+<td width="50%" align="center">
+  <img src="https://github.com/MrunaliOza04/MrunaliOza04/raw/e16f0dcecb0516576248d3eebb76969d40147c0f/coding_preview.png" 
+       style="height:100%; max-height:400px; object-fit:contain;" />
 </td>
+
 </tr>
 </table>
 
