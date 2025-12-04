@@ -1,7 +1,9 @@
 name: GitHub Profile 3D Contrib
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"      # Updates every day at 00:00 UTC
+  workflow_dispatch:         # You can also run it manually anytime
 
 jobs:
   build:
@@ -9,19 +11,19 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Profile 3D Contrib Graph
         uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: MrunaliOza04
-          
+
       - name: Commit & Push 3D Graph
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add -A
           git commit -m "Update 3D Contribution Graph" || echo "No changes to commit"
-          git push --force
-
+          git push
