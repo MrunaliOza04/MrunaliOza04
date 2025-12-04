@@ -18,8 +18,16 @@
 <!-- SECTION 3 — PROFILE VIEWS     -->
 <!-- ----------------------------- -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mrunalioza04&label=Profile%20Views&color=orange&style=flat" />
+  <span style="background:#444;padding:8px 15px;border-radius:5px;color:white;">
+    Profile Views  
+    <img src="https://komarev.com/ghpvc/?username=MrunaliOza04&color=orange&style=flat-square" />
+  </span>
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrunaliOza04.MrunaliOza04&title=Visitors&color=orange" />
+</p>
+
 
 
 <!-- ----------------------------------------- -->
