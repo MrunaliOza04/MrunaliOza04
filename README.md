@@ -162,13 +162,14 @@ Enjoy a new fun fact every time you refresh:
 
 ---
 <!-- ----------------------------- -->
-<!-- SECTION a — Achievments section     -->
+<!-- SECTION a — Achievements section -->
 <!-- ----------------------------- -->
 ## 🏆 GitHub Achievements
 (automatically updated)
 
 <!--ACHIEVEMENTS-->
-![](./achievements.svg)
+![](./github-metrics.svg)
+
 
 
 ---
