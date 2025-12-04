@@ -18,9 +18,19 @@
 <!-- SECTION 3 — PROFILE VIEWS     -->
 <!-- ----------------------------- -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrunaliOza04&label=Profile%20Views&color=orange&style=for-the-badge" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrunaliOza04.MrunaliOza04&title=Visitors" />
+
+  <!-- Profile Views (forced height) -->
+  <img src="https://komarev.com/ghpvc/?username=MrunaliOza04&style=flat&color=orange"
+       height="25" />
+
+  &nbsp;&nbsp;
+
+  <!-- Visitors (forced height) -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrunaliOza04.MrunaliOza04&color=blue"
+       height="25" />
+
 </p>
+
 
 
 
