@@ -1,4 +1,4 @@
-name: Generate Metrics
+name: Profile_Metrics_3d
 
 on:
   schedule:
