@@ -18,15 +18,10 @@
 <!-- SECTION 3 — PROFILE VIEWS     -->
 <!-- ----------------------------- -->
 <p align="center">
-  <span style="background:#444;padding:8px 15px;border-radius:5px;color:white;">
-    Profile Views  
-    <img src="https://komarev.com/ghpvc/?username=MrunaliOza04&color=orange&style=flat-square" />
-  </span>
+  <img src="https://komarev.com/ghpvc/?username=MrunaliOza04&label=Profile%20Views&color=orange&style=for-the-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrunaliOza04.MrunaliOza04&title=Visitors" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrunaliOza04.MrunaliOza04&title=Visitors&color=orange" />
-</p>
 
 
 
