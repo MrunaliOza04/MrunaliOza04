@@ -19,15 +19,15 @@
 <!-- ----------------------------- -->
 <p align="center">
 
-  <!-- Profile Views (forced height) -->
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=MrunaliOza04&style=flat&color=orange"
-       height="25" />
+       height="28"/>
 
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
-  <!-- Visitors (forced height) -->
+  <!-- Visitors -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MrunaliOza04.MrunaliOza04&color=blue"
-       height="25" />
+       height="28"/>
 
 </p>
 
