@@ -167,8 +167,8 @@ Enjoy a new fun fact every time you refresh:
 ## 🏆 GitHub Achievements
 (automatically updated)
 
-<!--ACHIEVEMENTS-->
-![](./github-metrics.svg)
+![](./github-achievements.svg)
+
 
 
 
