@@ -110,49 +110,20 @@
 <!-- ------------------ INSERTED INTERACTIVE SECTIONS BELOW LANGUAGES & TOOLS ------------------ -->
 
 ---
-## 🎮 Tic-Tac-Toe
+## 🎮 Tic Tac Toe — AI Powered  
+Interactive Tic Tac Toe built with a glowing neon UI and 3 AI difficulty levels.
 
-### Current Board
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mrunalioza04/Mrunalioza04/main/.github/tictactoe/board.png" width="300" />
-</p>
+<div align="center">
+  <a href="https://mrunalioza04.github.io/tic-tac-toe-ai/">
+    <img src="https://img.shields.io/badge/Play%20Now-%F0%9F%94%A5%20Neon%20Tic%20Tac%20Toe-blue?style=for-the-badge" />
+  </a>
+</div>
 
-### Play a Move
-<p align="center" style="font-size: 28px;">
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,1">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,2">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+1,3">⬜</a><br>
-
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,1">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,2">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+2,3">⬜</a><br>
-
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,1">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,2">⬜</a>
-  <a href="https://github.com/Mrunalioza04/Mrunalioza04/issues/new?title=Move+3,3">⬜</a>
-</p>
-
-```
-Move row,column
-```
-
-For example:
-
-- `Move 1,1`
-- `Move 2,3`
-- `Move 3,2`
-
----
-
-### ⭐ Quick Move Buttons (Click to auto-fill)
-
-| Row ↓ / Col → | 1 | 2 | 3 |
-|--------------|---|---|---|
-| **1** | [Move 1,1](../../issues/new?title=Move%201,1) | [Move 1,2](../../issues/new?title=Move%201,2) | [Move 1,3](../../issues/new?title=Move%201,3) |
-| **2** | [Move 2,1](../../issues/new?title=Move%202,1) | [Move 2,2](../../issues/new?title=Move%202,2) | [Move 2,3](../../issues/new?title=Move%202,3) |
-| **3** | [Move 3,1](../../issues/new?title=Move%203,1) | [Move 3,2](../../issues/new?title=Move%203,2) | [Move 3,3](../../issues/new?title=Move%203,3) |
-
-
+✨ Features  
+- ⚡ Instant gameplay (no GitHub Actions)  
+- 🤖 AI levels: Easy, Medium, Hard  
+- 🌈 Neon animations + responsive design  
+- 🎯 Built with JavaScript + CSS  
 
 ---
 
