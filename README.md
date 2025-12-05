@@ -177,8 +177,8 @@ Enjoy a new fun fact every time you refresh:
 ## 🚀 Projects  
 
 <table>
-  <!-- IMAGES ROW -->
   <tr>
+    <!-- IMAGES ROW -->
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="200px">
     </td>
@@ -190,21 +190,14 @@ Enjoy a new fun fact every time you refresh:
     </td>
   </tr>
 
-  <!-- TITLES ROW -->
-  <tr>
-    <td align="center"><strong>Hotel Management System</strong></td>
-    <td align="center"><strong>Tender Recommendation System</strong></td>
-    <td align="center"><strong>Hotel Management System using Spring</strong></td>
-  </tr>
-
-  <!-- DESCRIPTIONS ROW -->
+  <!-- DESCRIPTION ROW -->
   <tr>
     <td align="center">A Spring MVC + JSP based room management app.</td>
     <td align="center">Recommends tenders using Java logic.</td>
     <td align="center">Login, add room, remove room, book room.</td>
   </tr>
 
-  <!-- LINKS ROW (ALL ALIGNED PERFECTLY) -->
+  <!-- LINKS ROW -->
   <tr>
     <td align="center">
       <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
@@ -217,6 +210,7 @@ Enjoy a new fun fact every time you refresh:
     </td>
   </tr>
 </table>
+
 
 
 <!-- -------------------------------- -->
