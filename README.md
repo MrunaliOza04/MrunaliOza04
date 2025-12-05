@@ -177,32 +177,46 @@ Enjoy a new fun fact every time you refresh:
 ## 🚀 Projects  
 
 <table>
+  <!-- IMAGES ROW -->
   <tr>
-<!-- Card 1 -->
-    <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="240px" />
-      <h3>Hotel Management System</h3>
-      <p>A Spring MVC + JSP based room management app.</p>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="200px">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="200px">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="200px">
+    </td>
+  </tr>
+
+  <!-- TITLES ROW -->
+  <tr>
+    <td align="center"><strong>Hotel Management System</strong></td>
+    <td align="center"><strong>Tender Recommendation System</strong></td>
+    <td align="center"><strong>Hotel Management System using Spring</strong></td>
+  </tr>
+
+  <!-- DESCRIPTIONS ROW -->
+  <tr>
+    <td align="center">A Spring MVC + JSP based room management app.</td>
+    <td align="center">Recommends tenders using Java logic.</td>
+    <td align="center">Login, add room, remove room, book room.</td>
+  </tr>
+
+  <!-- LINKS ROW (ALL ALIGNED PERFECTLY) -->
+  <tr>
+    <td align="center">
       <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
     </td>
-    <!-- Card 2 -->
-    <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="240px" />
-      <h3>Tender Recommendation System</h3>
-      <p>Recommends tenders using Java logic.</p>
+    <td align="center">
       <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Project</a>
     </td>
-    <!-- Card 3 -->
-    <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="240px" />
-      <h3>Hotel Management System using Spring</h3>
-      <p>Login, add room, remove room, book room.</p>
+    <td align="center">
       <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
     </td>
-
   </tr>
 </table>
-
 
 
 <!-- -------------------------------- -->
