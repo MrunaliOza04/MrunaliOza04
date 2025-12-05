@@ -178,24 +178,27 @@ Enjoy a new fun fact every time you refresh:
 <table>
 <tr>
 
-<td width="33%">
-<h3>🏨 Hotel Management System</h3>
-<p>Spring-based hotel booking & admin system.</p>
-<a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
-</td>
+ <td align="center" width="33%" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" width="300px" />
+      <h3>Hotel Management System</h3>
+      <p>A Spring MVC + JSP based room management app.</p>
+      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
+    </td>
 
-<td width="33%">
-<h3>📊 Tender Recommendation System</h3>
-<p>Recommends tenders based on logic & data.</p>
-<a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Project</a>
-</td>
 
-<td width="33%">
-<h3>🏦 Hotel Management System using Spring</h3>
-<p>Account login, balance, deposit, withdraw.</p>
-<a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
-</td>
+ <td align="center" width="33%" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" width="300px" />
+      <h3>Tender Recommendation System</h3>
+      <p>Recommends tenders using Java logic.</p>
+      <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Project</a>
+    </td>
 
+ <td align="center" width="33%" style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" width="300px" />
+      <h3>Hotel Management System using Spring</h3>
+      <p>Login, add room, remove room, book room.</p>
+      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
+    </td>
 </tr>
 </table>
 
