@@ -206,18 +206,14 @@ Enjoy a new fun fact every time you refresh:
         <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Project</a>
       </div>
     </td>
-
-    <!-- Card 3 -->
+<!-- Card 3 -->
     <td align="center" width="33%" style="vertical-align: top; padding: 15px;">
       <div style="height: 480px; display: flex; flex-direction: column; justify-content: space-between;">
-
         <!-- Image -->
         <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" 
              style="width: 260px; height: 260px; object-fit: cover; border-radius: 8px;" />
-
         <!-- Title -->
         <h3>Hotel Management System using Spring</h3>
-
         <!-- Description -->
         <p>Login, add room, remove room, book room.</p>
   <!-- Link -->
