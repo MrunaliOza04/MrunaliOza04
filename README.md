@@ -181,7 +181,7 @@ Enjoy a new fun fact every time you refresh:
 <td width="33%">
 <h3>🏨 Hotel Management System</h3>
 <p>Spring-based hotel booking & admin system.</p>
-<a href="https://github.com/Mrunalioza04">🔗 View Project</a>
+<a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
 </td>
 
 <td width="33%">
