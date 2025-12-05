@@ -191,7 +191,7 @@ Enjoy a new fun fact every time you refresh:
 </td>
 
 <td width="33%">
-<h3>🏦 Hotel Management System with Spring</h3>
+<h3>🏦 Hotel Management System using Spring</h3>
 <p>Account login, balance, deposit, withdraw.</p>
 <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
 </td>
