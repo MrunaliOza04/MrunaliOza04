@@ -178,42 +178,31 @@ Enjoy a new fun fact every time you refresh:
 
 <table>
   <tr>
-<!-- CARD 1 -->
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" width="260" />
-      <div style="height:140px; display:flex; flex-direction:column; justify-content:space-between; margin-top:10px;">
-        <div>
-          <strong>Hotel Management System</strong>
-          <p>A Spring MVC + JSP based room management app.</p>
-        </div>
-        <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
-      </div>
+<!-- Card 1 -->
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="240px" />
+      <h3>Hotel Management System</h3>
+      <p>A Spring MVC + JSP based room management app.</p>
+      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
     </td>
-    <!-- CARD 2 -->
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" width="260" />
-      <div style="height:140px; display:flex; flex-direction:column; justify-content:space-between; margin-top:10px;">
-        <div>
-          <strong>Tender Recommendation System</strong>
-          <p>Recommends tenders using Java logic.</p>
-        </div>
-        <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Project</a>
-      </div>
+    <!-- Card 2 -->
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="240px" />
+      <h3>Tender Recommendation System</h3>
+      <p>Recommends tenders using Java logic.</p>
+      <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Project</a>
     </td>
-    <!-- CARD 3 -->
-    <td width="33%" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" width="260" />
-      <div style="height:140px; display:flex; flex-direction:column; justify-content:space-between; margin-top:10px;">
-        <div>
-          <strong>Hotel Management System using Spring</strong>
-          <p>Login, add room, remove room, book room.</p>
-        </div>
-        <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
-      </div>
+    <!-- Card 3 -->
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="240px" />
+      <h3>Hotel Management System using Spring</h3>
+      <p>Login, add room, remove room, book room.</p>
+      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
     </td>
 
   </tr>
 </table>
+
 
 
 <!-- -------------------------------- -->
