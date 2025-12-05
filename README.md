@@ -187,13 +187,13 @@ Enjoy a new fun fact every time you refresh:
 <td width="33%">
 <h3>📊 Tender Recommendation System</h3>
 <p>Recommends tenders based on logic & data.</p>
-<a href="https://github.com/Mrunalioza04">🔗 View Project</a>
+<a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Project</a>
 </td>
 
 <td width="33%">
-<h3>🏦 Banking Management System</h3>
+<h3>🏦 Hotel Management System with Spring</h3>
 <p>Account login, balance, deposit, withdraw.</p>
-<a href="https://github.com/Mrunalioza04">🔗 View Project</a>
+<a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
 </td>
 
 </tr>
