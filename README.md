@@ -83,7 +83,7 @@
 <!-- ------------------------------------------------- -->
 <!-- ------------------------------------------------- -->
 ## 🤝 Connect With Me  
-<p align="left">
+<p align="center">
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mrunali-oza04">
