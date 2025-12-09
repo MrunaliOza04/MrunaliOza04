@@ -130,7 +130,7 @@ Interactive Tic Tac Toe built with a glowing neon UI and 3 AI difficulty levels.
 
 <div align="center">
   <a href="https://mrunalioza04.github.io/tic-tac-toe-ai/">
-    <img src="https://img.shields.io/badge/Play%20Now-%F0%9F%94%A5%20Neon%20Tic%20Tac%20Toe-blue?style=for-the-badge" />
+    <img height="10" src="https://img.shields.io/badge/Play%20Now-%F0%9F%94%A5%20Neon%20Tic%20Tac%20Toe-blue?style=for-the-badge" />
   </a>
 </div>
 
