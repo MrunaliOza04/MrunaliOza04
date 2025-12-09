@@ -126,7 +126,6 @@
 
 ---
 ## 🎮 Tic Tac Toe — AI Powered  
-Interactive Tic Tac Toe built with a glowing neon UI and 3 AI difficulty levels.
 
 <div align="center">
   <a href="https://mrunalioza04.github.io/tic-tac-toe-ai/">
