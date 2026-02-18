@@ -162,10 +162,14 @@ Enjoy a new fun fact every time you refresh:
 ---
 <!-- ----------------------------- -->
 <!-- SECTION a — Achievements section -->
-🔹 **GitHub Achievements**
-- Pull Shark
-- YOLO
-- Starstruck
+## 🏆 GitHub Achievements
+
+<p>
+  <img src="https://img.shields.io/badge/Pull%20Shark-🦈-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/YOLO-🚀-orange?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Starstruck-⭐-yellow?style=for-the-badge&logo=github" />
+</p>
+ Starstruck
 
 
 
