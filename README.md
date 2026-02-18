@@ -163,15 +163,11 @@ Enjoy a new fun fact every time you refresh:
 <!-- ----------------------------- -->
 <!-- SECTION a — Achievements section -->
 <!-- ----------------------------- -->
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrunaliOza04&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mrunali-oza04&theme=onedark)
 
----
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliOza04&show_icons=true&theme=github_dark)
 
 <!-- --------------------------------------------- -->
 <!-- SECTION 9 — PROJECTS (3 HORIZONTAL CARDS)     -->
