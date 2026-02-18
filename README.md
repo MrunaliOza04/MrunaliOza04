@@ -163,9 +163,10 @@ Enjoy a new fun fact every time you refresh:
 <!-- ----------------------------- -->
 <!-- SECTION a — Achievements section -->
 <!-- ----------------------------- -->
-## 🏆 Achievements & Stats
+## 🏆 Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mrunali-oza04&theme=onedark)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mrunali-oza04&theme=onedark&no-frame=true&margin-w=10)](https://github.com/mrunali-oza04)
+
 
 
 
