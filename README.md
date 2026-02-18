@@ -164,12 +164,15 @@ Enjoy a new fun fact every time you refresh:
 <!-- SECTION a — Achievements section -->
 <!-- ----------------------------- -->
 ## 🏆 GitHub Achievements
-(automatically updated)
 
-<!--NEW_ACHIEVEMENTS-->
-![](./github-achievements.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrunaliOza04&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrunaliOza04&show_icons=true&theme=github_dark)
+
 <!-- --------------------------------------------- -->
 <!-- SECTION 9 — PROJECTS (3 HORIZONTAL CARDS)     -->
 <!-- --------------------------------------------- -->
