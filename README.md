@@ -165,7 +165,7 @@ Enjoy a new fun fact every time you refresh:
 <!-- ----------------------------- -->
 ## 🏆 Achievements
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrunalioza04&show_icons=true&locale=en&layout=compact" alt="mrunalioza04" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrunalioza04&show_icons=true&locale=en&layout=compact" alt="mrunalioza04" />
 
 
 
