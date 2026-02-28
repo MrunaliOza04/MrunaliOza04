@@ -228,17 +228,59 @@ Enjoy a new fun fact every time you refresh:
   <img src="profile-3d-contrib/profile-night-green.svg" width="800">
 </p>
 -->
+## 🌌 GitHub Insights
+
+<div align="center">
+
+<!-- 3D CONTRIBUTION -->
+![3D Contributions](https://raw.githubusercontent.com/MrunaliOza04/MrunaliOza04/output-3d-contrib/profile-night-green.svg)
+
+<!-- SNAKE ANIMATION -->
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrunaliOza04/MrunaliOza04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrunaliOza04/MrunaliOza04/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MrunaliOza04/MrunaliOza04/output/github-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=MrunaliOza04&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=34D399&title_color=34D399&text_color=c9d1d9&ring_color=34D399" height="180" />
+
+<!-- TOP LANGS -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrunaliOza04&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=34D399&text_color=c9d1d9&langs_count=8" height="180" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MrunaliOza04&theme=dark&hide_border=true&background=0d1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=c9d1d9&dates=6e7681" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MrunaliOza04&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Building Secure AI Systems | Spring Boot Backend Developer | Future Product Engineer 🚀**
+
+![Visitors](https://komarev.com/ghpvc/?username=MrunaliOza04&color=34D399&style=flat-square&label=Profile+Views)
+
+</div>
 ---
 
 <!-- -------------------------------- -->
