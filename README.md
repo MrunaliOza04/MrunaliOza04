@@ -140,7 +140,7 @@
 - 🎯 Built with JavaScript + CSS  
 
 ---
-
+<!--
 ## 🏅 Badge Unlock Game
 Track your engagement and unlock badges!
 - ⭐ **Bronze Explorer:** 10 profile visits (tracked via visitor-counter)
@@ -151,6 +151,7 @@ Track your engagement and unlock badges!
 *How badges are awarded (suggested setup):*  
 - Profile visits: ghpvc or a visitor-counter action + simple JS badge generator.  
 - PRs / Issues / Stars: GitHub Actions listening to repository events and updating a small JSON/badge file in the repo.
+*/
 
 ---
 
@@ -158,7 +159,7 @@ Track your engagement and unlock badges!
 Enjoy a new fun fact every time you refresh:
 
 ![Random Fun Fact](https://readme-facts.vercel.app/api?type=random)
-
+-->
 ---
 <!-- ----------------------------- -->
 <!-- SECTION a — Achievements section -->
@@ -220,13 +221,13 @@ Enjoy a new fun fact every time you refresh:
 ---
 
 <!-- ------------------ INSERTED SNAKE BELOW STATS ------------------ -->
-
+<!--
 ### 🌟 My GitHub 3D Contribution Graph (Dark Green Glow)
 
 <p align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" width="800">
 </p>
-
+-->
 ---
 
 <!-- -------------------------------- -->
