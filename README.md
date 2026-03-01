@@ -59,7 +59,7 @@
 <td width="50%">
 
 <!-- LEFT SIDE TEXT -->
-- 💡 Passionate about building scalable backend systems and solving real-world problems using       Java and Spring Boot. 
+- 💡 Passionate about building scalable backend systems with Java and Spring Boot. 
 - 📚 Currently improving my Spring Boot skills and learning DevOps essentials.  
 - 📂 Projects: **https://github.com/MrunaliOza04**  
 - 💬 Ask me about Java, Spring Boot, JDBC, Servlets, MySQL  
