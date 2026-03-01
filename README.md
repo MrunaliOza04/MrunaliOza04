@@ -229,6 +229,7 @@ Enjoy a new fun fact every time you refresh:
 </p>
 -->
 ## 🌌 GitHub Insights
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
 
