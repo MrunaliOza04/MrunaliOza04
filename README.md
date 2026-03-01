@@ -194,7 +194,7 @@ Enjoy a new fun fact every time you refresh:
 
   <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="150px"><br><br>
-      <strong>Room Booking App</strong><br>
+      <strong>Hotel Resource Allocation Engine</strong><br>
       <sub>Login, add room, remove room & book features</sub><br><br>
       <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Code</a>
       |
