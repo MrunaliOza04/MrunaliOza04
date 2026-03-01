@@ -181,10 +181,11 @@ Enjoy a new fun fact every time you refresh:
 <div style="min-height:45px;">
   <strong>Hotel Resource Allocation Engine</strong>
 </div>
-<br>    <div style="min-height:110px;">
+<br>   
+<div style="min-height:110px;">
         <sub>
-        Spring-based backend system for dynamic room allocation, booking management, and availability tracking using layered architecture.
-        </sub>
+Spring-based backend system for managing dynamic room allocation, booking workflows, and real-time availability tracking using structured layered architecture.
+</sub>
       </div>
       <br>
       <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring" target="_blank">
@@ -198,9 +199,9 @@ Enjoy a new fun fact every time you refresh:
   <strong>Tender Recommendation System</strong>
 </div>
 <br>      <div style="min-height:110px;">
-        <sub>
-        Role-based tender management system built using Servlets, JSP, and JDBC, supporting vendor bidding workflow and administrative control.
-        </sub>
+      <sub>
+Role-based tender management system supporting vendor bidding workflows and administrative control using Servlets, JSP, and JDBC integration.
+</sub>
       </div>
       <br>
       <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-" target="_blank">
@@ -215,8 +216,8 @@ Enjoy a new fun fact every time you refresh:
 </div>
 <br>      <div style="min-height:110px;">
         <sub>
-        Spring MVC + JSP based backend system implementing room management and booking operations using JDBC for database connectivity.
-        </sub>
+Spring MVC based backend system implementing room management, booking operations, and secure database connectivity using JDBC.
+</sub>
       </div>
       <br>
       <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring" target="_blank">
