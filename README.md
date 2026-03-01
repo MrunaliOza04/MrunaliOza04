@@ -252,14 +252,14 @@ Enjoy a new fun fact every time you refresh:
 </div>
 
 ---
-
+<!--
 <div align="center">
 
-<!-- STREAK -->
+<!-- STREAK -/->
 <img src="https://streak-stats.demolab.com?user=MrunaliOza04&theme=dark&hide_border=true&background=0d1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=c9d1d9&dates=6e7681" />
 
 </div>
-
+-->
 ---
 
 <div align="center">
