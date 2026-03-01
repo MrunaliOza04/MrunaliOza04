@@ -240,9 +240,13 @@ Enjoy a new fun fact every time you refresh:
 
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/MrunaliOza04/MrunaliOza04/output/github-snake-dark.svg)
 ---
 
+
 <div align="center">
+
+
 
 <!-- MAIN STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=MrunaliOza04&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=34D399&title_color=34D399&text_color=c9d1d9&ring_color=34D399" height="165"/>
