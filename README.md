@@ -207,7 +207,7 @@ Enjoy a new fun fact every time you refresh:
   </tr>
 </table>
 
-
+---
 
 <!-- -------------------------------- -->
 <!-- SECTION 10 — GITHUB STATS        -->
