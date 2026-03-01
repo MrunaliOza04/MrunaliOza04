@@ -220,14 +220,7 @@ Enjoy a new fun fact every time you refresh:
 
 ---
 
-<!-- ------------------ INSERTED SNAKE BELOW STATS ------------------ -->
-<!--
-### 🌟 My GitHub 3D Contribution Graph (Dark Green Glow)
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" width="800">
-</p>
--->
 <!-- -------------------------------- -->
 <!-- SECTION 10 — GITHUB 3D Insights        -->
 <!-- -------------------------------- -->
@@ -254,12 +247,12 @@ Enjoy a new fun fact every time you refresh:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrunaliOza04&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=34D399&text_color=c9d1d9&langs_count=8" height="165"/>
 
 </div>
--->
+
 ---
 
 <div align="center">
 
-<!-- STREAK -->
+<!-- STREAK /-->
 <img src="https://streak-stats.demolab.com?user=MrunaliOza04&theme=dark&hide_border=true&background=0d1117&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=c9d1d9&dates=6e7681" />
 
 </div>
@@ -268,11 +261,11 @@ Enjoy a new fun fact every time you refresh:
 
 <div align="center">
 
-<!-- TROPHIES -->
+<!-- TROPHIES -/->
 <img src="https://github-profile-trophy.vercel.app/?username=MrunaliOza04&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" />
 
 </div>
-
+-->
 ---
 
 
