@@ -170,39 +170,47 @@ Enjoy a new fun fact every time you refresh:
 <!-- --------------------------------------------- -->
 <!-- SECTION 9 — PROJECTS (3 HORIZONTAL CARDS)     -->
 <!-- --------------------------------------------- -->
-## 🚀 Projects  
+## 💼 Projects
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="150px"><br><br>
-      <strong>Hotel Management System</strong><br>
-      <sub>Spring MVC + JSP based room management system</sub><br><br>
-      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Code</a>
-      |
-      <a href="#">🌐 Live Demo</a>
-    </td>
+### 🔹 Hotel Resource Allocation Engine
 
-   <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="150px"><br><br>
-      <strong>Tender Recommendation System</strong><br>
-      <sub>Java-based intelligent tender matching system</sub><br><br>
-      <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-" target="_blank">
-  <strong>Source Code</strong>
-</a>
+Built a scalable backend module to manage dynamic room allocation, booking flow, and availability tracking using layered architecture and database integration.
 
-  <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="150px"><br><br>
-      <strong>Hotel Resource Allocation Engine</strong><br>
-      <sub>Login, add room, remove room & book features</sub><br><br>
-      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Code</a>
-      |
-      <a href="#">🌐 Live Demo</a>
-    </td>
-  </tr>
-</table>
+<strong>Tech Stack:</strong> Java, Spring Boot, JPA, MySQL, REST APIs
+
+<div align="center">
+  <a href="https://github.com/MrunaliOza04/Hotel-Resource-Allocation-Engine" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
+
+### 🔹 Tender Recommendation System
+
+Developed a backend system implementing structured vendor–tender matching logic using Spring Boot and JPA with layered architecture (Controller–Service–Repository).
+
+<strong>Tech Stack:</strong> Java, Spring Boot, JPA, Hibernate, MySQL
+
+<div align="center">
+  <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🔹 Hotel Management System (Spring MVC)
+
+Designed a Spring MVC + JSP based backend system implementing authentication, room booking, and CRUD operations with MySQL integration.
+
+<strong>Tech Stack:</strong> Java, Spring MVC, JSP, MySQL
+
+<div align="center">
+  <a href="https://github.com/MrunaliOza04/YOUR-SPRING-MVC-REPO" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 <!-- -------------------------------- -->
 <!-- SECTION 10 — GITHUB STATS        -->
