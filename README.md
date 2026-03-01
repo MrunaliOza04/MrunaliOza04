@@ -269,14 +269,7 @@ Enjoy a new fun fact every time you refresh:
 
 
 
----
 
-<div align="center">
-
-**Building Secure AI Systems | Spring Boot Backend Developer | Future Product Engineer 🚀**
-
-
-</div>
 ---
 
 <!-- -------------------------------- -->
