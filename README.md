@@ -174,35 +174,31 @@ Enjoy a new fun fact every time you refresh:
 
 <table>
   <tr>
-    <!-- IMAGES ROW -->
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="200px">
+      <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="150px"><br><br>
+      <strong>Hotel Management System</strong><br>
+      <sub>Spring MVC + JSP based room management system</sub><br><br>
+      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Code</a>
+      |
+      <a href="#">🌐 Live Demo</a>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="200px">
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="200px">
-    </td>
-  </tr>
 
-  <!-- DESCRIPTION ROW -->
-  <tr>
-    <td align="center">A Spring MVC + JSP based room management app.</td>
-    <td align="center">Recommends tenders using Java logic.</td>
-    <td align="center">Login, add room, remove room, book room.</td>
-  </tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="150px"><br><br>
+      <strong>Tender Recommendation System</strong><br>
+      <sub>Java-based intelligent tender matching system</sub><br><br>
+      <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Code</a>
+      |
+      <a href="#">🌐 Live Demo</a>
+    </td>
 
-  <!-- LINKS ROW -->
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-">🔗 View Project</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Project</a>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="150px"><br><br>
+      <strong>Room Booking App</strong><br>
+      <sub>Login, add room, remove room & book features</sub><br><br>
+      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring">🔗 View Code</a>
+      |
+      <a href="#">🌐 Live Demo</a>
     </td>
   </tr>
 </table>
