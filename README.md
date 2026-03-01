@@ -282,7 +282,6 @@ Enjoy a new fun fact every time you refresh:
 
 **Building Secure AI Systems | Spring Boot Backend Developer | Future Product Engineer 🚀**
 
-![Visitors](https://komarev.com/ghpvc/?username=MrunaliOza04&color=34D399&style=flat-square&label=Profile+Views)
 
 </div>
 ---
