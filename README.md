@@ -176,7 +176,7 @@ Enjoy a new fun fact every time you refresh:
   <tr>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="150px"><br><br>
-      <strong>Hotel Management System</strong><br>
+      <strong>Hotel Resource Allocation Engine</strong><br>
       <sub>Spring MVC + JSP based room management system</sub><br><br>
      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
@@ -197,7 +197,7 @@ Enjoy a new fun fact every time you refresh:
 
    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="150px"><br><br>
-      <strong>Hotel Resource Allocation Engine</strong><br>
+      <strong>Hotel Management System</strong><br>
       <sub>Login, add room, remove room & book features</sub><br><br>
 
   <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring" target="_blank">
