@@ -172,38 +172,43 @@ Enjoy a new fun fact every time you refresh:
 <!-- --------------------------------------------- -->
 ## 🚀 Projects  
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
+
+   <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="150px"><br><br>
+    <strong>Hotel Resource Allocation Engine</strong><br><br>
+      <sub>
+      Spring-based backend system for dynamic room allocation, booking management, and availability tracking using layered architecture.
+      </sub>
+      <br><br><br>
+      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="150px"><br><br>
+      <strong>Tender Recommendation System</strong><br><br>
+      <sub>
+      Role-based tender management system built using Servlets, JSP, and JDBC, supporting vendor bidding workflow and administrative control.
+      </sub>
+      <br>
+      <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
       <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="150px"><br><br>
-      <strong>Hotel Resource Allocation Engine</strong><br>
-  <sub>Spring-based backend system for dynamic room allocation, booking management, and availability tracking using layered architecture.</sub><br><br>
-     <a href="https://github.com/MrunaliOza04/Hotel-Resource-Allocation-Engine--Spring" target="_blank">
+      <strong>Hotel Management System</strong><br><br>
+      <sub>
+      Spring MVC + JSP based backend system implementing room management and booking operations using JDBC for database connectivity.
+      </sub>
+      <br><br>
+      <a href="https://github.com/MrunaliOza04/Hotel-Management-System--Spring" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+    </td>
 
-  </td>
-
- <td align="center" width="33%">
-  <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="150px"><br><br>
-  <strong>Tender Recommendation System</strong><br>
-  <sub>Role-based tender management system built using Servlets, JSP, and JDBC, supporting vendor bidding workflow and administrative control.</sub><br><br>
-
-  <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</td>
-
-   <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="150px"><br><br>
-      <strong>Hotel Management System</strong><br>
-      <sub>Spring MVC + JSP based backend system implementing room management and booking operations using JDBC for database connectivity.</sub><br><br>
-
-  <a href="https://github.com/MrunaliOza04/Hotel-Management-System" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-
-  </td>
   </tr>
 </table>
 
