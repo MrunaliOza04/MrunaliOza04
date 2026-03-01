@@ -187,7 +187,7 @@ Enjoy a new fun fact every time you refresh:
    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="150px"><br><br>
       <strong>Tender Recommendation System</strong><br>
-<sub>Role-based tender management system built using Servlets, JSP, and JDBC, supporting vendor bidding workflow and administrative control.</sub>
+<sub>Role-based tender management system built using Servlets, JSP, and JDBC, supporting vendor bidding workflow and administrative control. </sub>
       <a href="https://github.com/MrunaliOza04/Tender-Recommendation-System-Java-" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
       </a>
