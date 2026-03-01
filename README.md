@@ -228,6 +228,9 @@ Enjoy a new fun fact every time you refresh:
   <img src="profile-3d-contrib/profile-night-green.svg" width="800">
 </p>
 -->
+<!-- -------------------------------- -->
+<!-- SECTION 10 — GITHUB 3D Insights        -->
+<!-- -------------------------------- -->
 ## 🌌 GitHub Insights
 
 <div align="center">
