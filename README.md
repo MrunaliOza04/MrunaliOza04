@@ -215,8 +215,8 @@ Role-based tender management system supporting vendor bidding workflows and admi
   <strong>Hotel Management System</strong>
 </div>
 <br>      <div style="min-height:110px;">
-        <sub>
-Spring MVC based backend system implementing room management, booking operations, and secure database connectivity using JDBC.
+      <sub>
+Role-based hotel management system supporting room booking workflows and administrative operations using Spring MVC and JDBC integration.
 </sub>
       </div>
       <br>
