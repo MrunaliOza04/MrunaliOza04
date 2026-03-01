@@ -51,6 +51,6 @@
   <!-- centered name/title area (simple decorative, text not necessary here) -->
   <g transform="translate(640,120)" text-anchor="middle" fill="#C6A15A" font-family="Georgia, 'Times New Roman', serif">
     <text x="0" y="-24" font-size="36" font-weight="700" letter-spacing="2">MRUNALI OZA</text>
-    <text x="0" y="6" font-size="18" font-weight="500" letter-spacing="2">JUNIOR SOFTWARE DEVELOPER | FULL STACK DEVELOPER | BACKEND DEVELOPER</text>
+    <text x="0" y="6" font-size="18" font-weight="500" letter-spacing="2">JAVA BACKEND DEVELOPER | FULL STACK DEVELOPER | SPRING BOOT DEVELOPER</text>
   </g>
 </svg>
