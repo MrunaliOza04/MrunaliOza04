@@ -246,15 +246,15 @@ Enjoy a new fun fact every time you refresh:
 
 <div align="center">
 
+<!--
 
-
-<!-- MAIN STATS -->
+<!-- MAIN STATS -/->
 <img src="https://github-readme-stats.vercel.app/api?username=MrunaliOza04&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=34D399&title_color=34D399&text_color=c9d1d9&ring_color=34D399" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrunaliOza04&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=34D399&text_color=c9d1d9&langs_count=8" height="165"/>
 
 </div>
-
+-->
 ---
 
 <div align="center">
