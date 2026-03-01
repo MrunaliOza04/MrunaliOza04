@@ -178,8 +178,10 @@ Enjoy a new fun fact every time you refresh:
     <td align="center" width="33%" valign="top">
       <img src="https://github.com/user-attachments/assets/800e1429-7cc4-4d12-92af-bef2818afde8" height="150px"><br><br>
 
-  <strong>Hotel Resource Allocation Engine</strong><br><br>
-    <div style="min-height:110px;">
+<div style="min-height:45px;">
+  <strong>Hotel Resource Allocation Engine</strong>
+</div>
+<br>    <div style="min-height:110px;">
         <sub>
         Spring-based backend system for dynamic room allocation, booking management, and availability tracking using layered architecture.
         </sub>
@@ -192,8 +194,10 @@ Enjoy a new fun fact every time you refresh:
     <!-- Project 2 -->
     <td align="center" width="33%" valign="top">
       <img src="https://github.com/user-attachments/assets/91fb61c6-1b5d-4b70-9911-d111ed543438" height="150px"><br><br>
-      <strong>Tender Recommendation System</strong><br><br>
-      <div style="min-height:110px;">
+<div style="min-height:45px;">
+  <strong>Tender Recommendation System</strong>
+</div>
+<br>      <div style="min-height:110px;">
         <sub>
         Role-based tender management system built using Servlets, JSP, and JDBC, supporting vendor bidding workflow and administrative control.
         </sub>
@@ -206,8 +210,10 @@ Enjoy a new fun fact every time you refresh:
     <!-- Project 3 -->
     <td align="center" width="33%" valign="top">
       <img src="https://github.com/user-attachments/assets/3c01f680-9ed7-4011-b7f4-90f9172f10bd" height="150px"><br><br>
-      <strong>Hotel Management System</strong><br><br>
-      <div style="min-height:110px;">
+<div style="min-height:45px;">
+  <strong>Hotel Management System</strong>
+</div>
+<br>      <div style="min-height:110px;">
         <sub>
         Spring MVC + JSP based backend system implementing room management and booking operations using JDBC for database connectivity.
         </sub>
