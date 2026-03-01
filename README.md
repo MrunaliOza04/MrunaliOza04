@@ -229,7 +229,7 @@ Enjoy a new fun fact every time you refresh:
 <div align="center">
 
 <!-- 3D CONTRIBUT GRAPH -->
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
