@@ -1,8 +1,5 @@
 name: Generate 3D Contribution Graph
 
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -15,8 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate 3D graph
+      - name: Generate 3D Graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: MrunaliOza04
+          GITHUB_TOKEN: ${{ github.token }}
